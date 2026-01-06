@@ -92,3 +92,6 @@ persist.vendor.vibrator.hal.context.settlingtime=5000
 ro.vendor.vibrator.hal.f0.comp.enabled=1
 ro.vendor.vibrator.hal.redc.comp.enabled=0
 vendor.audio.hapticgenerator.distortion.output.gain=0.29
+
+# UHDR Gore
+debug.hwui.enable_uhdr_gore=true
